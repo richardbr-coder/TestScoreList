@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\TestScoreList\bin\Debug\TestScoreList.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\TestScoreList\bin\Debug\TestScoreList.exe
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\TestScoreList\bin\Debug\TestScoreList.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\TestScoreList\obj\Debug\TestScoreList.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\TestScoreList\obj\Debug\TestScoreList.exe
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\TestScoreList\obj\Debug\TestScoreList.pdb
